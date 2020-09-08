@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<?php include 'includes/head.php'; ?>
+		<?php include 'style.php'; ?>
+    </head>
+  <body>
+        <!--NavigationBar-->
+        <div id="nav-div">
+        	<?php include 'includes/navbar.php'?>
+        </div>
+        <!--MainDisplay-->
+        <div id="header-padding"></div>
+        <div id="error-div">
+        <p>The page you are looking for does not exist. Sorry :/</p>
+        <a href="index.php"><p>Return the the home page here</p></a>
+        </div>
+        <p>
+        <!--Footer-->
+	</body>
+</html>
+<!-- 
+                                             
+--> 
